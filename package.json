@@ -1,0 +1,25 @@
+{
+  "name": "com.trea.behaviortree",
+  "version": "0.1.0",
+  "displayName": "Trea Behaviour Tree",
+  "description": "新手友好的 Unity 行为树插件：Inspector 可视化配置，支持用 TreaAction 资产搭建树结构，附带示例",
+  "unity": "6000.0",
+  "keywords": [
+    "ai",
+    "behaviour-tree",
+    "behavior-tree",
+    "行为树"
+  ],
+  "author": {
+    "name": "Trea",
+    "url": "https://github.com/MsXiaoTian-Gamer/UnityAiTreaBuild"
+  },
+  "license": "MIT",
+  "samples": [
+    {
+      "displayName": "示例敌人 AI",
+      "description": "巡逻/追击/攻击完整示例（ExampleEnemyAI + Health + 创建示例敌人菜单）",
+      "path": "Samples~/TreaExample"
+    }
+  ]
+}
