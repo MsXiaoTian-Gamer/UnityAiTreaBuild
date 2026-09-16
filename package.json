@@ -1,7 +1,7 @@
 {
   "name": "com.trea.behaviortree",
   "version": "0.1.0",
-  "displayName": "Trea Behaviour Tree",
+  "displayName": "MengShenBehaviorTree",
   "description": "新手友好的 Unity 行为树插件：Inspector 可视化配置，支持用 TreaAction 资产搭建树结构，附带示例",
   "unity": "6000.0",
   "keywords": [
