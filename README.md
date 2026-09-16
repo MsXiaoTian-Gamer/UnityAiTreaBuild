@@ -1,9 +1,9 @@
-# MengShenBehaviorTree
+# MengShenBehaviourTree
 
 > 新手友好的 Unity 行为树（Behavior Tree）AI 插件：全程在 **Inspector** 里配置，无需写可视化编辑器。
 > 项目正在建设中并**持续更新中**，接口可能随版本调整。
 
-MengShenBehaviorTree（包名 `com.trea.behaviortree`，当前版本 `0.1.0`）是一套轻量、无外部依赖的行为树 AI 插件，命名空间统一为 `Trea`。仓库根目录即 UPM 包，可直接通过 Package Manager 安装。
+MengShenBehaviourTree（包名 `com.trea.behaviortree`，当前版本 `0.1.0`）是一套轻量、无外部依赖的行为树 AI 插件，命名空间统一为 `Trea`。仓库根目录即 UPM 包，可直接通过 Package Manager 安装。
 
 ## 功能特性
 

@@ -11,9 +11,9 @@ AIGC:
 
 
 
-# MengShenBehaviorTree 使用说明（USE.md）
+# MengShenBehaviourTree 使用说明（USE.md）
 
-> MengShenBehaviorTree 是一个基于 Unity 的**行为树（Behavior Tree）AI 插件**，当前处于建设中（Alpha / 早期开发），**持续更新中**。
+> MengShenBehaviourTree 是一个基于 Unity 的**行为树（Behavior Tree）AI 插件**，当前处于建设中（Alpha / 早期开发），**持续更新中**。
 > 本文档基于项目当前代码（仓库根目录即 UPM 包：`Runtime/`、`Editor/`、`Samples~/`）编写，说明插件的定位、安装接入方式、节点体系与使用方法。
 
 ---
@@ -22,7 +22,7 @@ AIGC:
 
 ### 1.1 这是什么
 
-MengShenBehaviorTree（包名 `com.trea.behaviortree`，当前版本 `0.1.0`）是一套**新手友好、轻量、无外部依赖**的 Unity 行为树 AI 插件，命名空间统一为 `Trea`。它提供：
+MengShenBehaviourTree（包名 `com.trea.behaviortree`，当前版本 `0.1.0`）是一套**新手友好、轻量、无外部依赖**的 Unity 行为树 AI 插件，命名空间统一为 `Trea`。它提供：
 
 - 一套完整的行为树**运行时**：节点生命周期管理、组合 / 装饰 / 叶节点、黑板共享数据、固定间隔 Tick 驱动；
 - 两套**搭建方式**：
@@ -44,7 +44,7 @@ MengShenBehaviorTree（包名 `com.trea.behaviortree`，当前版本 `0.1.0`）�
 |---|---|
 | 包名（package.json `name`） | `com.trea.behaviortree` |
 | 版本（package.json `version`） | `0.1.0` |
-| 显示名（`displayName`） | MengShenBehaviorTree |
+| 显示名（`displayName`） | MengShenBehaviourTree |
 | 最低 Unity 版本（`unity` 字段） | `6000.0`（Unity 6.0 及以上） |
 | License | MIT（见 `LICENSE.md`） |
 | 作者 | Trea（仓库：`https://github.com/MsXiaoTian-Gamer/UnityAiTreaBuild`） |
@@ -140,7 +140,7 @@ UnityAiTreaBuild/
 
 ### 2.5 导入示例
 
-`Samples~` 目录遵循 UPM 规范，**不会**被自动编译或打入包。在 Package Manager 中选中 `MengShenBehaviorTree` → `Samples` → `Import` 导入「示例敌人 AI」后，即可在项目中出现 `TreaExample` 示例（含 `Trea/创建示例敌人` 菜单）。
+`Samples~` 目录遵循 UPM 规范，**不会**被自动编译或打入包。在 Package Manager 中选中 `MengShenBehaviourTree` → `Samples` → `Import` 导入「示例敌人 AI」后，即可在项目中出现 `TreaExample` 示例（含 `Trea/创建示例敌人` 菜单）。
 
 ---
 
