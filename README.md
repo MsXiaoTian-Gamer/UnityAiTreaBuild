@@ -1,4 +1,4 @@
-# AiTrea
+# AiTrea (UnityAiTreaBuild)
 
 > 一个正在建设中的 Unity 插件项目。
 
